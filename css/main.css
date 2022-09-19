@@ -2,7 +2,8 @@ header{
     background: white;
     width: 100%;
     height: 100px;
-   
+   margin-bottom: 75px;
+   margin-top: 15px;
     
 }
 .page-wrap {
@@ -31,6 +32,8 @@ header .top-bar li a{
 }
 .the_logo{
     float: left;
+    margin-top: 30px;
+    margin-right: 50px;
 }
 
 body{
@@ -38,11 +41,20 @@ body{
 }
 #footer{
     
-    /*background-color: rgb(235, 161, 161);*/
+    /*background-color: rgb(235, 161, 161);
     padding-top: 50p;
+    
+*/}
+/*#footer li a{
     text-decoration: none;
-}
-#footer li a{
-   
     color: white;
+}*/
+footer {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+footer #footer li{
+    text-decoration: none;
+    list-style: none;
+    color: black;
 }
