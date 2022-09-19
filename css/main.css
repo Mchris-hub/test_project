@@ -50,11 +50,19 @@ body{
     color: white;
 }*/
 footer {
+    margin-top: 35px;
     padding-top: 75px;
     padding-bottom: 75px;
+    background-image: url("http://localhost:8888/wordpress/wp-content/uploads/2022/09/download-3.jpg") ;
 }
 footer #footer li{
     text-decoration: none;
     list-style: none;
-    color: black;
+    color: white;
+    font-weight: bolder;
 }
+footer #footer li:first-child{
+    color: black;
+    font-size: 18px;
+    margin-bottom: 10px;
+};
