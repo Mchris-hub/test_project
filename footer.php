@@ -5,7 +5,6 @@
      <div class="col-sm-3">
      
     <img class="alignnone size-medium wp-image-56" src="http://localhost:8888/wordpress/wp-content/uploads/2022/09/download-2.jpg" alt="" width="200" height="300" />
-    
      </div>
      <div class="col-sm-3" id="the_footer_menu">
             <li>kaashandel kaas& jakob</li>
@@ -35,7 +34,5 @@
 </div>
 </div>
 </footer>
-
-
 </body>
 </html>
